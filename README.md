@@ -1,4 +1,6 @@
-# Creatify AI Skill - Python SDK & Developer Integration Guide
+# creatify-ai-skill
+
+> **GenPark AI Agent Skill** -- # Creatify AI Skill - Python SDK & Developer Integration Guide
 
 This repository contains the **Creatify AI Developer Skill** — a comprehensive Python client SDK wrapper and developer documentation designed to automate the generation of high-impact video ads, AI avatars, text-to-speech, and asset generation using the official **Creatify AI REST API** (v1 and v2).
 
